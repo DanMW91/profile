@@ -108,9 +108,10 @@ section {
 
 .flame-img {
   position: absolute;
-  top: 420px;
+  top: 470px;
   left: 570px;
   width: 810px;
+  height: 170px;
   z-index: 3;
 }
 
@@ -126,11 +127,12 @@ section {
 .things-i-like {
   color: pink;
   text-align: center;
+
 }
 .things-i-like-card {
   background: #5089C6;
-  border-top-right-radius: 0px;
-  border-bottom-right-radius: 0px;
+
+  margin-right: 15px;
 }
 
 .arrow {
